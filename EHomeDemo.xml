@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LocalCfg>
+    <Param>
+        <KeepAliveSeconds>15</KeepAliveSeconds>
+        <AlarmServerIP>10.17.132.231</AlarmServerIP>
+        <AlarmServerPort>7332</AlarmServerPort>
+        <AlarmServerType>0</AlarmServerType>
+        <AlarmServerTcpPort>7332</AlarmServerTcpPort>
+        <NTPServerIP>10.17.132.231</NTPServerIP>
+	<NTPServerPort>123</NTPServerPort>
+        <NTPInterval>3600</NTPInterval>
+        <PictureServer>10.17.132.231</PictureServer>
+        <PictureServerPort>80</PictureServerPort>
+        <CmsAccessSecurity>0</CmsAccessSecurity>
+        <AlarmAccessSecurity>0</AlarmAccessSecurity>
+        <StreamAccessSecurity>0</StreamAccessSecurity>
+    </Param>
+</LocalCfg>
